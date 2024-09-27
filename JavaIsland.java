@@ -10,6 +10,8 @@ public class JavaIsland{
         System.out.println("Hello!");
          
         else System.out.println("Goodbye.");
+
+        System.out.print("This is new!");
     }
 }
 
